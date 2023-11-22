@@ -1,0 +1,23 @@
+{
+  "name": "sit725-2023-t1-prac2",
+  "version": "1.0.0",
+  "description": "SIT725 Prac 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngtronghoang97/sit725-2023-t1-prac2.git"
+  },
+  "author": "ngtronghoang97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngtronghoang97/sit725-2023-t1-prac2/issues"
+  },
+  "homepage": "https://github.com/ngtronghoang97/sit725-2023-t1-prac2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
